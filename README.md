@@ -4,7 +4,7 @@ I'm somebody on the Internet ig. So far I haven't really used GitHub all that mu
 
 ![yes](https://media.discordapp.net/attachments/899368346808639498/912996514899562536/1635714434213.gif)
 
-Oh and btw, I coded some stuff for minecraft and SCP:SL before. They're obv nothing very special and one of those projects didn't even fully work as I intended it to. :(
+Oh and btw, I coded some stuff for minecraft and SCP:SL before. Most of the things I do are game related...
 
 https://github.com/FweeGamerHD/testPluginStuff
 
