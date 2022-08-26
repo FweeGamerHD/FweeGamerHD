@@ -2,7 +2,7 @@
 
 I'm somebody on the Internet ig. So far I haven't really used GitHub all that much, hence why I'm adding something to my "very special repository" as GitHub calls it to make my profile look prettier.
 
-![yes](https://media.discordapp.net/attachments/899368346808639498/912996514899562536/1635714434213.gif)
+![yes](https://tenor.com/view/get-real-cats-cat-kittens-gif-22323194)
 
 Oh and btw, I coded some stuff for minecraft and SCP:SL before. Most of the things I do are game related...
 
