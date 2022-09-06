@@ -2,13 +2,13 @@
 
 I'm somebody on the Internet ig. So far I haven't really used GitHub all that much, hence why I'm adding something to my "very special repository" as GitHub calls it to make my profile look prettier.
 
-![yes](https://cdn.discordapp.com/attachments/418420124836560907/1009966354637537323/unknown.png)
-
 Oh and btw, I coded some stuff for minecraft and SCP:SL before. Most of the things I do are game related...
 
 https://github.com/FweeGamerHD/testPluginStuff
 
 https://github.com/FweeGamerHD/randomlyOpenDoors
+
+![yes](https://cdn.discordapp.com/attachments/418420124836560907/1009966354637537323/unknown.png)
 
 <!--
 **FweeGamerHD/FweeGamerHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
