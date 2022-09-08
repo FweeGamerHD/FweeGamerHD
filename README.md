@@ -8,7 +8,7 @@ https://github.com/FweeGamerHD/testPluginStuff
 
 https://github.com/FweeGamerHD/randomlyOpenDoors
 
-![yes](https://cdn.discordapp.com/attachments/418420124836560907/1009966354637537323/unknown.png)
+<!-- ![yes](https://cdn.discordapp.com/attachments/418420124836560907/1009966354637537323/unknown.png) -->
 
 <!--
 **FweeGamerHD/FweeGamerHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
