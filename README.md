@@ -4,7 +4,7 @@ I'm somebody on the Internet ig. So far I haven't really used GitHub all that mu
 
 Oh and btw, I coded some stuff for minecraft and SCP:SL before. Most of the things I do are game related...
 
-https://github.com/FweeGamerHD/testPluginStuff
+https://github.com/FweeGamerHD/RandomRespawn
 
 https://github.com/FweeGamerHD/randomlyOpenDoors
 
