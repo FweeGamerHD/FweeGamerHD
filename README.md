@@ -12,6 +12,8 @@ This is my friend
 
 https://github.com/Patrixon0
 
+![khat](https://media.tenor.com/G0OBtQPRa40AAAAM/cat-funny-looking-camera-cat-smurf.gif)
+
 <!-- ![yes](https://cdn.discordapp.com/attachments/418420124836560907/1009966354637537323/unknown.png) -->
 
 <!--
