@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-I'm somebody on the Internet ig. So far I haven't really used GitHub all that much, hence why I'm adding something to my "very special repository" as GitHub calls it to make my profile look prettier.
+I'm a swiss IT-student on the Internet. I tend to do small projects that I randomly start having an obsession about. I'm adding something to my "very special repository" as GitHub calls it to make my profile look prettier.
 
-Oh and btw, I coded some stuff for minecraft and SCP:SL before. Most of the things I do are game related...
+Currently I'm in a limbo where I struggle to find an internship to finally end my studies (potentially 2 extra years go brrr)
 
-https://github.com/FweeGamerHD/RandomRespawn
 
-https://github.com/FweeGamerHD/randomlyOpenDoors
-
-This is my friend
-
+Oh and also, this is my friend
 https://github.com/Patrixon0
 
 ![khat](https://media.tenor.com/G0OBtQPRa40AAAAM/cat-funny-looking-camera-cat-smurf.gif)
