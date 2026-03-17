@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a swiss IT-student on the Internet. I tend to do small projects that I randomly start having an obsession about. I'm adding something to my "very special repository" as GitHub calls it to make my profile look prettier.
-
-Currently I'm in a limbo where I struggle to find an internship to finally end my studies (potentially 2 extra years go brrr)
+I'm a swiss student on the internet. I tend to do small projects that I randomly start having an obsession about. I'm adding something to my "very special repository" as GitHub calls it to make my profile look prettier.
 
 
 Oh and also, this is my friend
